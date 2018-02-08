@@ -1,15 +1,15 @@
-#bio  {
-	color: white;
-	background-color: black;
-	font-size: 18px;
-	font-family: "Lucida Console";
-}
-
 p {
 	color: black;
 	border: 2px solid black;
 	font-size: 24px;
 	font-style: oblique;
+	font-family: "Lucida Console";
+}
+
+#bio  {
+	color: white;
+	background-color: black;
+	font-size: 18px;
 	font-family: "Lucida Console";
 }
 
