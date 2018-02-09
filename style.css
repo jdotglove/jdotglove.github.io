@@ -6,10 +6,11 @@ h1 {
 	font-family: "Lucida Console";
 }
 
-#bio  {
-	color: white;
-	background-color: black;
-	font-size: 36px;
+h2 {
+	color: blue;
+	border:  1px solid red;
+	font-size: 18px;
+	font-style: oblique;
 	font-family: "Lucida Console";
 }
 
@@ -19,11 +20,18 @@ h3 {
 	font-style: oblique;
 }
 
-h2 {
+h4 {
 	color: blue;
-	border:  1px solid red;
-	font-size: 18px;
+	border:  6px solid red;
+	font-size: 28px;
 	font-style: oblique;
+	font-family: "Lucida Console";
+}
+
+#bio  {
+	color: white;
+	background-color: black;
+	font-size: 36px;
 	font-family: "Lucida Console";
 }
 
