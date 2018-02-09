@@ -14,7 +14,7 @@ h1 {
 }
 
 ul {
-	font-size: 18px;
+	font-size: 14px;
 	font-family: "Lucida Console";
 	font-style: oblique;
 }
@@ -22,13 +22,13 @@ ul {
 h2 {
 	color: blue;
 	border:  1px solid red;
-	font-size: 18px;
+	font-size: 14px;
 	font-style: oblique;
 	font-family: "Lucida Console";
 }
 
 .name {
-	font-size: 36px;
+	font-size: 48px;
 	font-style: oblique;
 	font-family: "Lucida Console";
 }
