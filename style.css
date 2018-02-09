@@ -28,6 +28,12 @@ h2 {
 }
 
 .name {
+	font-size: 36px;
+	font-style: oblique;
+	font-family: "Lucida Console";
+}
+
+#section {
 	font-size: 24px;
 	font-style: oblique;
 	font-family: "Lucida Console";
